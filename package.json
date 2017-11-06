@@ -1,0 +1,18 @@
+{
+  "name": "simple-weather-app",
+  "version": "1.0.0",
+  "description": "Simple weather app(this app is only for trial version for 3point software)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "sampleweatherapp"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "edmart abon",
+  "dependencies": {
+    "mustache": "^2.3.0",
+    "request": "^2.83.0"
+  }
+}
