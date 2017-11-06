@@ -1,0 +1,15 @@
+body {
+	background: #EFF0F1;
+}
+
+.hide {
+	display: none;
+}
+
+.submit-button {
+	margin: 23px 0;
+}
+
+.list-group .glyphicon {
+	padding: 0 5px 0 3px;
+}
